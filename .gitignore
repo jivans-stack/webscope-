@@ -1,2 +1,1 @@
-__pycache__/
-*.csv
+.DS_Store rm -r --cached __pycache__

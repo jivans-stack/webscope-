@@ -1,0 +1,55 @@
+Domain,Title,Status,Links,Internal,Images,Speed
+python.org,Welcome to Python.org,200,214,37,1,0.17
+wikipedia.org,Wikipedia,200,376,355,1,0.55
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,200,152,86,24,0.21
+python.org,Welcome to Python.org,The official home of the Python Programming Language,Intuitive Interpretation,200,214,37,1,en,0.31,52.0,Educational / Developer Website
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,"Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.","Search code, repositories, users, issues, pull requests...",200,152,86,24,en,0.18,557.15,AI / Technology
+wikipedia.org,Wikipedia,"Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.","Wikipedia
+
+The Free Encyclopedia",200,376,355,1,en,0.7,117.5,General Website
+openai.com,No Title,-,-,403,0,0,0,,1.09,9.41,General Website
+python.org,Welcome to Python.org,The official home of the Python Programming Language,Intuitive Interpretation,200,214,37,1,en,0.09,52.0,Educational / Developer Website
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,"Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.","Search code, repositories, users, issues, pull requests...",200,152,86,24,en,1.15,557.15,AI / Technology
+wikipedia.org,Wikipedia,"Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.","Wikipedia
+
+The Free Encyclopedia",200,376,355,1,en,0.52,117.5,General Website
+openai.com,No Title,-,-,403,0,0,0,,0.05,9.41,General Website
+python.org,Welcome to Python.org,The official home of the Python Programming Language,Intuitive Interpretation,200,214,37,1,en,0.14,52.0,Educational / Developer Website
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,"Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.","Search code, repositories, users, issues, pull requests...",200,152,86,24,en,0.17,557.15,AI / Technology
+wikipedia.org,Wikipedia,"Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.","Wikipedia
+
+The Free Encyclopedia",200,376,355,1,en,0.52,117.5,General Website
+openai.com,No Title,-,-,403,0,0,0,,0.05,9.41,General Website
+python.org,Welcome to Python.org,200,214,1,en,0.3,Educational / Developer
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,200,152,24,en,0.35,AI / Technology
+wikipedia.org,Wikipedia,200,376,1,en,0.69,General Website
+www.bbc.com,"BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio",200,296,120,en-GB,0.32,News
+www.reuters.com,reuters.com,401,0,0,en,0.1,General Website
+techcrunch.com,TechCrunch | Startup and Technology News,200,312,70,en-US,2.09,News
+www.theguardian.com,"Latest news, sport and opinion from the Guardian",200,341,109,en,0.29,News
+www.bbc.com,"BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio",200,296,120,en-GB,0.3,News
+www.reuters.com,reuters.com,401,0,0,en,0.09,General Website
+techcrunch.com,TechCrunch | Startup and Technology News,200,312,70,en-US,2.38,News
+www.theguardian.com,"Latest news, sport and opinion from the Guardian",200,341,109,en,1.33,News
+www.amazon.in,No Title,202,0,0,-,0.15,General Website
+www.flipkart.com,"Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!",200,383,80,en-IN,0.84,E-commerce
+www.ikea.com,Hej! Welcome to IKEA Global,200,160,34,en,0.4,General Website
+Dashboard → Goes Home,Failed,Error,0,0,-,0,Unavailable
+Features → Scrolls to Features,Failed,Error,0,0,-,0,Unavailable
+About → Scrolls to About,Failed,Error,0,0,-,0,Unavailable
+Export → Downloads CSV,Failed,Error,0,0,-,0,Unavailable
+python.org,Welcome to Python.org,200,214,1,en,0.22,Educational / Developer
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,200,152,24,en,0.21,AI / Technology
+stackoverflow.com,Just a moment...,403,0,0,en-US,0.09,General Website
+developer.mozilla.org,MDN Web Docs,200,173,1,en-US,0.36,General Website
+fastapi.tiangolo.com,FastAPI - FastAPI,200,362,49,en,0.21,General Website
+numpy.org,NumPy,200,153,44,en,0.32,General Website
+pandas.pydata.org,pandas - Python Data Analysis Library,200,66,8,,0.28,Educational / Developer
+python.org,Welcome to Python.org,200,214,1,en,0.26,Educational / Developer
+github.com,GitHub · Change is constant. GitHub keeps you ahead. · GitHub,200,152,24,en,0.24,AI / Technology
+wikipedia.org,Wikipedia,200,376,1,en,0.73,General Website
+cloudflare.com,Cloudflare: Build for the agent era,200,69,65,en,0.62,General Website
+huggingface.co,Hugging Face – The AI community building the future.,200,102,28,,1.17,AI / Technology
+developer.mozilla.org,MDN Web Docs,200,173,1,en-US,0.14,General Website
+fastapi.tiangolo.com,FastAPI - FastAPI,200,362,49,en,0.16,General Website
+stackoverflow.com,Just a moment...,403,0,0,en-US,0.08,General Website
